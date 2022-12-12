@@ -1,4 +1,4 @@
-# RandomVideoCall
+# VideoCall
 A Random videos call with coin based
 
 # download apk 
